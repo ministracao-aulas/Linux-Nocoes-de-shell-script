@@ -1,0 +1,16 @@
+#!/bin/bash
+
+NOME="Tiago"
+SOBRENOME="França"
+NOME_COMPLETO="${NOME} ${SOBRENOME}"
+PESO_ANO_PASSADO=120
+PESO_ATUAL=
+# PESO=${PESO_ATUAL:-0}
+PESO=${PESO_ATUAL:-$PESO_ANO_PASSADO}
+
+# echo $NOME_COMPLETO
+
+echo "PESO: ${PESO}"
+
+EMAIL="tiago@site.com"
+echo "${EMAIL/@/-at-}"
