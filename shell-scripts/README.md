@@ -1,14 +1,15 @@
 ### DONE
-- she bang [Ok]
-- parametros para script [Ok]
-- expansão de variáveis [Ok]
-- funções [Ok]
-- parametros de funções [Ok]
-- if/else [Ok]
-
-### TODO
+- she bang
+- parametros para script
+- expansão de variáveis
+- funções
+- parametros de funções
+- if/else
 - Status de execução
 - `&` vs `;`
 - Pipe `|`
 - GREP
 - AWK
+
+### TODO
+-
