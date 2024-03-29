@@ -9,16 +9,16 @@
 
 IDADE=19
 
-if [ $IDADE -eq 18 ]; then
+if [ $IDADE -ge 18 ]; then
     echo "Pode passar. É de maior"
 else
     echo "NÃO pode passar. É de menor"
 fi
 
-# if [ $IDADE -ge 18 ]; then
-#     echo "Pode passar. É de maior"
-# else
+# if [ $IDADE -lt 18 ]; then
 #     echo "NÃO pode passar. É de menor"
+# else
+#     echo "Pode passar. É de maior"
 # fi
 
 # if [ $IDADE -gt 17 ]; then
