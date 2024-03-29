@@ -1,1 +1,0 @@
-find: ‘/tmp/pastas-fake2’: Arquivo ou diretório inexistente
