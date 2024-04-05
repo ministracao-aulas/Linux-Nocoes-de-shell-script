@@ -1,5 +1,5 @@
 ### DONE
-- she bang
+- shebang
 - parametros para script
 - expansão de variáveis
 - funções
@@ -10,14 +10,18 @@
 - Pipe `|`
 - GREP
 - AWK
-
-### TODO
 - Manipulação de arquivos
     - Replace de valores
-    - Renomeando arquivos em lote
-    - Deletando arquivos e pastas a partir de lista em arquivo
+        - Em variáveis
+        - Em arquivos
+        - Renomeando arquivos em lote
     - Verificando se pastas e arquivos existem
+    - Deletando arquivos e pastas a partir de lista em arquivo
+
+### TODO
 - Usuários e grupos
     - Criação de usuários
     - Criação de grupos
     - Adicionando usuário à grupo
+- Aceitando entradas (input) do usuário
+- Opções
