@@ -10,6 +10,7 @@
 - Pipe `|`
 - GREP
 - AWK
+- Aceitando entradas (input) do usuário
 - Manipulação de arquivos
     - Replace de valores
         - Em variáveis
@@ -23,5 +24,4 @@
     - Criação de usuários
     - Criação de grupos
     - Adicionando usuário à grupo
-- Aceitando entradas (input) do usuário
 - Opções
