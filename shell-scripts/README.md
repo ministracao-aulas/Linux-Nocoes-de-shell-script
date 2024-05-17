@@ -24,4 +24,5 @@
     - Criação de usuários
     - Criação de grupos
     - Adicionando usuário à grupo
+    - Validando permissões de usuário e/ou grupo
 - Opções
